@@ -117,9 +117,9 @@
 	blockquote cite a, blockquote cite a:visited, blockquote cite a:visited { }
 
 	hr { 
-  border: none; 
-  clear: both; 
-  height: 35px; 
+	border: none; 
+	clear: both; 
+	height: 35px; 
 }
 
 @media only screen and (max-width: 767px) {
@@ -134,10 +134,6 @@
 	.portypics {
 		margin: 0;
 	}	
-
-	.dj {
-		display: none;
-	}
 
 }
 
