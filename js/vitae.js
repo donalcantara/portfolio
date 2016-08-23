@@ -468,7 +468,7 @@ jQuery(document).ready(function() {
 
 			var twitter = $(".tweets").tweet({
 				join_text: "auto",
-				username: "LGLab",
+				username: "12oyc3",
 				avatar_size: 48,
 				count: 3,
 				auto_join_text_default: "",
